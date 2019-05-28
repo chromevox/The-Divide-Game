@@ -15,13 +15,13 @@ The Divide is an open-world text-based roleplaying game made with the Evennia MU
 
 ### Recent Website Changes
 
-5/28 - Moved wiki pages over from Wikia to the repository wiki.
+5/28 - Moved wiki pages over from Wikia to the repository wiki.\
 
 ### Game Development Progress
 
-5/27 - Inventory slots and container capacity implemented.
-5/25 - Major design changes and updates.
-5/20 - Profession skills drafted for Warrior and Mage classes.
-5/14 - Excursion system drafted.
-5/8 - Fishing works in Mead Pond now.
-5/7 - Social module simplified. 
+5/27 - Inventory slots and container capacity implemented.\
+5/25 - Major design changes and updates.\
+5/20 - Profession skills drafted for Warrior and Mage classes.\
+5/14 - Excursion system drafted.\
+5/8 - Fishing works in Mead Pond now.\
+5/7 - Social module simplified. \
