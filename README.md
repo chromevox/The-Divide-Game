@@ -1,4 +1,3 @@
-## Welcome to the official website for the Divide text-based game.
 
 _There exists a space between kingdoms, between worlds, and between minds._
 
